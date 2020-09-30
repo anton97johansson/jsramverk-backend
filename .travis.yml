@@ -12,5 +12,4 @@ before_script:
     - npm install
 
 script:
-    - npm run pretest
     - npm test
