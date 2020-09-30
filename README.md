@@ -28,3 +28,4 @@ install dependencies
 5. #### npm start
 Server runs at port 1337
 
+[![Build Status](https://travis-ci.org/anton97johansson/jsramverk-backend.svg?branch=master)](https://travis-ci.org/anton97johansson/jsramverk-backend)
