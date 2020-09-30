@@ -5,6 +5,7 @@ const db = require("../db/database.js");
 const bcrypt = require('bcryptjs');
 const jwt = require('jsonwebtoken');
 
+let config;
 try {
     config = require('../config/config.json');
 } catch (error) {
