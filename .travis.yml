@@ -13,3 +13,6 @@ before_script:
 
 script:
     - npm test
+
+env:
+- JTW_SECRET="oajw5398usaifjfijw324"
