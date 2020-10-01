@@ -29,3 +29,7 @@ install dependencies
 Server runs at port 1337
 
 [![Build Status](https://travis-ci.org/anton97johansson/jsramverk-backend.svg?branch=master)](https://travis-ci.org/anton97johansson/jsramverk-backend)
+
+[![Code Coverage](https://scrutinizer-ci.com/g/anton97johansson/jsramverk-backend/badges/coverage.png?b=master)](https://scrutinizer-ci.com/g/anton97johansson/jsramverk-backend/?branch=master)
+
+[![Build Status](https://scrutinizer-ci.com/g/anton97johansson/jsramverk-backend/badges/build.png?b=master)](https://scrutinizer-ci.com/g/anton97johansson/jsramverk-backend/build-status/master)
