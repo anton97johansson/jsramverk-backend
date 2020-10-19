@@ -8,6 +8,7 @@ const hello = require('./routes/hello');
 const register = require('./routes/register');
 const login = require('./routes/login');
 const reports = require('./routes/reports');
+const chat = require('./routes/chat');
 
 const port = 1337;
 
@@ -32,6 +33,7 @@ app.use('/hello', hello);
 app.use('/register', register);
 app.use('/login', login);
 app.use('/reports', reports);
+app.use('/chat', chat);
 
 app.use((req, res, next) => {
     var err = new Error("Not Found");
